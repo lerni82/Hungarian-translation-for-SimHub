@@ -325,7 +325,7 @@
     <value>Vezérlések és események</value>
   </data>
   <data name="ControlsEditor_LinkButton_Change" xml:space="preserve">
-    <value>változás</value>
+    <value>Változás</value>
   </data>
   <data name="ControlsEditor_LinkButton_ClickToConfigure" xml:space="preserve">
     <value>Kattintson a konfiguráláshoz</value>
@@ -472,7 +472,7 @@
     <value>Nincs kategorizálva</value>
   </data>
   <data name="GraphicalDashPluginList_CheckBox_CycleOnlyThroughFavouritesDash" xml:space="preserve">
-    <value>Kerékpározzon csak a kedvencek kötőjelén keresztül</value>
+    <value>Ciklus csak az irányítópulton keresztül</value>
   </data>
   <data name="GraphicalDashPluginList_CheckBox_EnableDedicatedControls" xml:space="preserve">
     <value>Dedikált vezérlők engedélyezése</value>
@@ -619,7 +619,7 @@
     <value>ELÉRHETŐ FEDÉSEK</value>
   </data>
   <data name="GraphicalDashPluginList_SectionTitleSAVEDOVERLAYLAYOUTS" xml:space="preserve">
-    <value>MENTETT FEDETŐ ELHELYEZÉSEK</value>
+    <value>MENTETT FEDÉSEK ELHELYEZÉSE</value>
   </data>
   <data name="GraphicalDashPluginList_SectionTitleSettingsDASHDISPLAY" xml:space="preserve">
     <value>IRÁNYÍTÓPULTOK KIJELZŐ</value>
@@ -628,10 +628,10 @@
     <value>ESZKÖZÖNKÉNT KEZELŐSZERVEK (TABLETTA / TELEFON ...)</value>
   </data>
   <data name="GraphicalDashPluginList_SectionTitleSettingsLEADERBOARDS" xml:space="preserve">
-    <value>RANGÁCSOK</value>
+    <value>EREDMÉNYTÁBLA</value>
   </data>
   <data name="GraphicalDashPluginList_SectionTitleSettingsOVERLAYDISPLAY" xml:space="preserve">
-    <value>OVERLAYS KIJELZŐ</value>
+    <value>FEDÉSEK KIJELZŐ</value>
   </data>
   <data name="GraphicalDashPluginList_SectionTitleSettingsPERFORMANCE" xml:space="preserve">
     <value>TELJESÍTMÉNY</value>
@@ -772,7 +772,7 @@
     <value>Elrendezés szerkesztése</value>
   </data>
   <data name="OverlayEditor_HideWhenNotInRaceCheckbox" xml:space="preserve">
-    <value>Bújj el, ha nem veszel részt a versenyen</value>
+    <value>Versenyen kívűl ne mutassa</value>
   </data>
   <data name="OverlayEditor_SaveLayoutbutton" xml:space="preserve">
     <value>Elrendezés mentése</value>
@@ -781,7 +781,7 @@
     <value>Szerkesztés leállítása</value>
   </data>
   <data name="OverlayEditor_WaitingForGame" xml:space="preserve">
-    <value>Várva a játékot</value>
+    <value>Várva a játékra</value>
   </data>
   <data name="OverlayEditor_WindowedBorderlessModeAlert" xml:space="preserve">
     <value>Ügyeljen arra, hogy a játékot ablakos vagy szegély nélküli módban konfigurálja</value>
@@ -1030,7 +1030,7 @@
     <value>LAP KÖVETÉS ÉS RANGLASZÁMOK</value>
   </data>
   <data name="SettingsLooknfeelSection" xml:space="preserve">
-    <value>LOK'N'FEL</value>
+    <value>LOOK'N'FEEL</value>
   </data>
   <data name="SettingsPluginsTab" xml:space="preserve">
     <value>Beépülő modulok</value>
@@ -1078,13 +1078,13 @@
     <value>Indítás minimalizálva</value>
   </data>
   <data name="StartWithWindows" xml:space="preserve">
-    <value>Kezdje az ablakokkal</value>
+    <value>Induljon a windows-al</value>
   </data>
   <data name="SystemLog" xml:space="preserve">
     <value>Rendszernapló</value>
   </data>
   <data name="ThanksForYourSupport" xml:space="preserve">
-    <value>Translation service not available or usage limit reached</value>
+    <value>Köszönjük a SimHub projekthez nyújtott támogatást, remélem élvezni fogja.</value>
   </data>
   <data name="PluginDescription_ShakeITBSV3Plugin" xml:space="preserve">
     <value>ShakeIt (tapintható visszajelzés) funkciókat biztosít a basszus shakerekhez</value>
@@ -2701,7 +2701,7 @@
     <value>Válasz görbe</value>
   </data>
   <data name="SAVE" xml:space="preserve">
-    <value>MEGMENT</value>
+    <value>MENTÉS</value>
   </data>
   <data name="ShakeItSettings_EditResponseCurveInstructions" xml:space="preserve">
     <value>Bal kattintás : Vezérlőpont hozzáadása | </value>
@@ -2791,7 +2791,7 @@
     <value>VAGY</value>
   </data>
   <data name="MobileAccessAssistant_TroubleshotingTip" xml:space="preserve">
-    <value>Nem működik ?Győződjön meg arról, hogy tűzfala engedélyezi a SimHub bejövő kapcsolatokat.</value>
+    <value>Nem működik ? Győződjön meg arról, hogy tűzfala engedélyezi a SimHub bejövő kapcsolatokat.</value>
   </data>
   <data name="MobileAccessAssistant_DashStudioMobileAccess" xml:space="preserve">
     <value>Dash Studio mobil hozzáférés</value>
@@ -2805,7 +2805,7 @@ a következő URL-t</value>
 QR-KÓD</value>
   </data>
   <data name="ShakeItSettings_HighPassFilterHZ" xml:space="preserve">
-    <value>felüláteresztő szűrő (HZ)</value>
+    <value>Felüláteresztő szűrő (HZ)</value>
   </data>
   <data name="ShakeItSettings_LowPassFilterHZ" xml:space="preserve">
     <value>Aluláteresztő szűrő (HZ)</value>
@@ -3675,7 +3675,7 @@ QR-KÓD</value>
     <value>RENDSZERFIGYELŐ KONFIGURÁCIÓ</value>
   </data>
   <data name="SystemInfosProviderSettingsEditor_MEDIAPLAYERINFORMATION" xml:space="preserve">
-    <value>MÉDIAJÁTÉKOS INFORMÁCIÓK</value>
+    <value>MÉDIA PLAYER INFORMÁCIÓK</value>
   </data>
   <data name="BeltTensionnerPluginUI_BELTTENSIONNERSETTINGS" xml:space="preserve">
     <value>SZÍJFESZÍTŐ BEÁLLÍTÁSAI</value>
@@ -4390,5 +4390,11 @@ QR-KÓD</value>
   </data>
   <data name="ShakeItExportOutputToPropery_Label_ExportOutputValueAsAProperty" xml:space="preserve">
     <value>Kimeneti érték exportálása tulajdonságként</value>
+  </data>
+  <data name="GaugeSettings_SPEEDOMETERGAUGE" xml:space="preserve">
+    <value>SEBESSÉGMÉRŐ</value>
+  </data>
+  <data name="GaugeSettings_BoostGaugeMinimum" xml:space="preserve">
+    <value>Erősítés mérő minimum</value>
   </data>
 </root>
